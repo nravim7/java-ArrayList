@@ -33,6 +33,10 @@ public class ArraysList {
         groceryList.set(0, new GroceryItem("Bread"));
 
         System.out.println(groceryList);
+        //        int[] intArray = new int[] {1, 2, 3, 4, 5};
+//        var intList = Arrays.asList(intArray);
+//        intList.sortre();
+
 
 
     }
