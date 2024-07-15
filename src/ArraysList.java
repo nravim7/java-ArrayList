@@ -37,7 +37,5 @@ public class ArraysList {
 //        var intList = Arrays.asList(intArray);
 //        intList.sortre();
 
-
-
     }
 }
